@@ -1,4 +1,4 @@
-# USB_Hacker
+# USB_Hacker/U盘小偷
 
 
 一个可以复制U盘内文件的小脚本
