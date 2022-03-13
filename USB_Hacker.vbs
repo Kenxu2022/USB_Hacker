@@ -68,6 +68,7 @@ else
 			ws.run cmd3,0,true
 		end if
 		fso.copyfolder pathA,pathB
+		fso.deletefolder pathA
 	else
 		pathC=letter & ":\not_yet.txt"
 		fso.createtextfile(pathC)
