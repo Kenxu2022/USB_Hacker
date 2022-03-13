@@ -39,4 +39,4 @@
 
 哈哈哈哈哈哈哈哈哈哈哈哈哈哈笑死我了
 
-（来源：https://github.com/kenvix/USBCopyer）
+（来源：https://github.com/kenvix/USBCopyer ）
